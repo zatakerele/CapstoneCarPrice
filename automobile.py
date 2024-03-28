@@ -13,7 +13,7 @@ st.markdown("<br>", unsafe_allow_html = True)
 
 st.image('pngwing.com(2).png')
 st.header('Project Info', divider = True)
-st.write("The primary objective of this machine learning project is to develop a predictive model capable of assessing the likelihood of customer loan approval based on a comprehensive set of features and criteria. By harnessing the power of advanced ML techniques, we aim to provide lending institutions with a reliable tool for automating and optimizing the loan approval process. The ultimate goal is to enhance decision-making efficiency, mitigate risks, and improve customer satisfaction by delivering faster and more accurate loan approvals")
+st.write("Navigating the dynamic landscape of the automotive market requires precise insights into the valuation of vehicles. Whether you're a dealer looking to optimize inventory pricing, a buyer seeking a fair deal, or an insurer assessing risk, having access to reliable car price predictions is essential. Introducing our advanced car price prediction model, a cutting-edge solution built on state-of-the-art machine learning algorithms and comprehensive data analysis")
 
 st.dataframe(data)
 # import the transformers 
